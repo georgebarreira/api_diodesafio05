@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "titulo": "Primeiro Post",
+    "descricao": "Este é o primeiro post da API.",
+    "boddy": "Conteúdo detalhado do primeiro post.",
+    "criado_em": "2024-06-01T10:00:00Z",
+    "editado_em": "2024-06-01T12:00:00Z"
+  },
+  {
+    "id": 2,
+    "titulo": "Segundo Post",
+    "descricao": "Este é o segundo post da API.",
+    "boddy": "Conteúdo detalhado do segundo post.",
+    "criado_em": "2024-06-02T09:30:00Z",
+    "editado_em": "2024-06-02T11:15:00Z"
+  },
+  {
+    "id": 3,
+    "titulo": "Terceiro Post",
+    "descricao": "Este é o terceiro post da API.",
+    "boddy": "Conteúdo detalhado do terceiro post.",
+    "criado_em": "2024-06-03T08:45:00Z",
+    "editado_em": "2024-06-03T10:20:00Z"
+  }
+]
