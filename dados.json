@@ -3,8 +3,7 @@
     "id": 1,
     "titulo": "Primeiro Post",
     "descricao": "Este é o primeiro post da API.",
-    "boddy": "Conteúdo detalhado do primeiro post. loren ipsum dolor sit amet. Ad suscipit sint est sint amet sed vero inventore sed eius explicabo est omnis explicabo est sint unde sit veniam velit. Qui facilis minima sed voluptatem sunt eos earum odit aut consequuntur blanditiis. Sit amet voluptates sed similique laboriosam 33 quidem quas. 
-    Ut eveniet maxime et similique quam quo dolor sint et harum voluptatem. Ut dolores amet qui omnis neque cum iusto fugit.",
+    "boddy": "Conteúdo detalhado do primeiro post. loren ipsum dolor sit amet. Ad suscipit sint est sint amet sed vero inventore sed eius explicabo est omnis explicabo est sint unde sit veniam velit. Qui facilis minima sed voluptatem sunt eos earum odit aut consequuntur blanditiis. Sit amet voluptates sed similique laboriosam 33 quidem quas. Ut eveniet maxime et similique quam quo dolor sint et harum voluptatem. Ut dolores amet qui omnis neque cum iusto fugit.",
     "criado_em": "2024-06-01T10:00:00Z",
     "editado_em": "2024-06-01T12:00:00Z"
   },
@@ -20,20 +19,7 @@
     "id": 3,
     "titulo": "Terceiro Post",
     "descricao": "Este é o terceiro post da API.",
-    "boddy": "Terceiro post body. Lorem ipsum dolor sit amet. Ad suscipit sint est sint amet sed vero inventore sed eius explicabo est omnis explicabo est sint unde sit veniam velit. Qui facilis minima sed voluptatem sunt eos earum odit aut consequuntur blanditiis.
-
-Sit amet voluptates sed similique laboriosam 33 quidem quas. Ut eveniet maxime et similique quam quo dolor sint et harum voluptatem. Ut dolores amet qui omnis neque cum iusto fugit.
-
-Lorem ipsum dolor sit amet. Ad suscipit sint est sint amet sed vero inventore sed eius explicabo est omnis explicabo est sint unde sit veniam velit. Qui facilis minima sed voluptatem sunt eos earum odit aut consequuntur blanditiis.
-
-Sit amet voluptates sed similique laboriosam 33 quidem quas. Ut eveniet maxime et similique quam quo dolor sint et harum voluptatem. Ut dolores amet qui omnis neque cum iusto fugit.
-
-Lorem ipsum dolor sit amet. Ad suscipit sint est sint amet sed vero inventore sed eius explicabo est omnis explicabo est sint unde sit veniam velit. Qui facilis minima sed voluptatem sunt eos earum odit aut consequuntur blanditiis.
-
-Sit amet voluptates sed similique laboriosam 33 quidem quas. Ut eveniet maxime et similique quam quo dolor sint et harum voluptatem. Ut dolores amet qui omnis neque cum iusto fugit.
-
-",
-    "criado_em": "2024-06-03T08:45:00Z",
+    "boddy": "Terceiro post body. Lorem ipsum dolor sit amet. Ad suscipit sint est sint amet sed vero inventore sed eius explicabo est omnis explicabo est sint unde sit veniam velit. Qui facilis minima sed voluptatem sunt eos earum odit aut consequuntur blanditiis.\nSit amet voluptates sed similique laboriosam 33 quidem quas. Ut eveniet maxime et similique quam quo dolor sint et harum voluptatem. Ut dolores amet qui omnis neque cum iusto fugit.\nLorem ipsum dolor sit amet. Ad suscipit sint est sint amet sed vero inventore sed eius explicabo est omnis explicabo est sint unde sit veniam velit. Qui facilis minima sed voluptatem sunt eos earum odit aut consequuntur blanditiis.\nSit amet voluptates sed similique laboriosam 33 quidem quas. Ut eveniet maxime et similique quam quo dolor sint et harum voluptatem. Ut dolores amet qui omnis neque cum iusto fugit.\nLorem ipsum dolor sit amet. Ad suscipit sint est sint amet sed vero inventore sed eius explicabo est omnis explicabo est sint unde sit veniam velit. Qui facilis minima sed voluptatem sunt eos earum odit aut consequuntur blanditiis.\nSit amet voluptates sed similique laboriosam 33 quidem quas. Ut eveniet maxime et similique quam quo dolor sint et harum voluptatem. Ut dolores amet qui omnis neque cum iusto fugit.",
     "editado_em": "2024-06-03T10:20:00Z"
   }
 ]
