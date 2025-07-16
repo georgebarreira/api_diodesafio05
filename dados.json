@@ -1,25 +1,25 @@
 [
   {
     "id": 1,
-    "titulo": "Primeiro Post",
-    "descricao": "Este é o primeiro post da API.",
-    "boddy": "Conteúdo detalhado do primeiro post. loren ipsum dolor sit amet. Ad suscipit sint est sint amet sed vero inventore sed eius explicabo est omnis explicabo est sint unde sit veniam velit. Qui facilis minima sed voluptatem sunt eos earum odit aut consequuntur blanditiis. Sit amet voluptates sed similique laboriosam 33 quidem quas. Ut eveniet maxime et similique quam quo dolor sint et harum voluptatem. Ut dolores amet qui omnis neque cum iusto fugit.",
-    "criado_em": "2024-06-01T10:00:00Z",
-    "editado_em": "2024-06-01T12:00:00Z"
+    "title": "Primeiro Post",
+    "desciption": "Este é o primeiro post da API.",
+    "post_text": "Conteúdo detalhado do primeiro post. loren ipsum dolor sit amet. Ad suscipit sint est sint amet sed vero inventore sed eius explicabo est omnis explicabo est sint unde sit veniam velit. Qui facilis minima sed voluptatem sunt eos earum odit aut consequuntur blanditiis. Sit amet voluptates sed similique laboriosam 33 quidem quas. Ut eveniet maxime et similique quam quo dolor sint et harum voluptatem. Ut dolores amet qui omnis neque cum iusto fugit.",
+    "created": "2024-06-01T10:00:00Z",
+    "edited": "2024-06-01T12:00:00Z"
   },
   {
     "id": 2,
-    "titulo": "Segundo Post",
-    "descricao": "Este é o segundo post da API.",
-    "boddy": "Esse segundo post está cheio de loren. Lorem ipsum dolor sit amet. Ad suscipit sint est sint amet sed vero inventore sed eius explicabo est omnis explicabo est sint unde sit veniam velit. Qui facilis minima sed voluptatem sunt eos earum odit aut consequuntur blanditiis. Sit amet voluptates sed similique laboriosam 33 quidem quas. Ut eveniet maxime et similique quam quo dolor sint et harum voluptatem. Ut dolores amet qui omnis neque cum iusto fugit.",
-    "criado_em": "2024-06-02T09:30:00Z",
-    "editado_em": "2024-06-02T11:15:00Z"
+    "title": "Segundo Post",
+    "desciption": "Este é o segundo post da API.",
+    "post_text": "Esse segundo post está cheio de loren. Lorem ipsum dolor sit amet. Ad suscipit sint est sint amet sed vero inventore sed eius explicabo est omnis explicabo est sint unde sit veniam velit. Qui facilis minima sed voluptatem sunt eos earum odit aut consequuntur blanditiis. Sit amet voluptates sed similique laboriosam 33 quidem quas. Ut eveniet maxime et similique quam quo dolor sint et harum voluptatem. Ut dolores amet qui omnis neque cum iusto fugit.",
+    "created": "2024-06-02T09:30:00Z",
+    "edited": "2024-06-02T11:15:00Z"
   },
   {
     "id": 3,
-    "titulo": "Terceiro Post",
-    "descricao": "Este é o terceiro post da API.",
-    "boddy": "Terceiro post body. Lorem ipsum dolor sit amet. Ad suscipit sint est sint amet sed vero inventore sed eius explicabo est omnis explicabo est sint unde sit veniam velit. Qui facilis minima sed voluptatem sunt eos earum odit aut consequuntur blanditiis.\nSit amet voluptates sed similique laboriosam 33 quidem quas. Ut eveniet maxime et similique quam quo dolor sint et harum voluptatem. Ut dolores amet qui omnis neque cum iusto fugit.\nLorem ipsum dolor sit amet. Ad suscipit sint est sint amet sed vero inventore sed eius explicabo est omnis explicabo est sint unde sit veniam velit. Qui facilis minima sed voluptatem sunt eos earum odit aut consequuntur blanditiis.\nSit amet voluptates sed similique laboriosam 33 quidem quas. Ut eveniet maxime et similique quam quo dolor sint et harum voluptatem. Ut dolores amet qui omnis neque cum iusto fugit.\nLorem ipsum dolor sit amet. Ad suscipit sint est sint amet sed vero inventore sed eius explicabo est omnis explicabo est sint unde sit veniam velit. Qui facilis minima sed voluptatem sunt eos earum odit aut consequuntur blanditiis.\nSit amet voluptates sed similique laboriosam 33 quidem quas. Ut eveniet maxime et similique quam quo dolor sint et harum voluptatem. Ut dolores amet qui omnis neque cum iusto fugit.",
-    "editado_em": "2024-06-03T10:20:00Z"
+    "title": "Terceiro Post",
+    "desciption": "Este é o terceiro post da API.",
+    "post_text": "Terceiro post body. Lorem ipsum dolor sit amet. Ad suscipit sint est sint amet sed vero inventore sed eius explicabo est omnis explicabo est sint unde sit veniam velit. Qui facilis minima sed voluptatem sunt eos earum odit aut consequuntur blanditiis.\nSit amet voluptates sed similique laboriosam 33 quidem quas. Ut eveniet maxime et similique quam quo dolor sint et harum voluptatem. Ut dolores amet qui omnis neque cum iusto fugit.\nLorem ipsum dolor sit amet. Ad suscipit sint est sint amet sed vero inventore sed eius explicabo est omnis explicabo est sint unde sit veniam velit. Qui facilis minima sed voluptatem sunt eos earum odit aut consequuntur blanditiis.\nSit amet voluptates sed similique laboriosam 33 quidem quas. Ut eveniet maxime et similique quam quo dolor sint et harum voluptatem. Ut dolores amet qui omnis neque cum iusto fugit.\nLorem ipsum dolor sit amet. Ad suscipit sint est sint amet sed vero inventore sed eius explicabo est omnis explicabo est sint unde sit veniam velit. Qui facilis minima sed voluptatem sunt eos earum odit aut consequuntur blanditiis.\nSit amet voluptates sed similique laboriosam 33 quidem quas. Ut eveniet maxime et similique quam quo dolor sint et harum voluptatem. Ut dolores amet qui omnis neque cum iusto fugit.",
+    "edited": "2024-06-03T10:20:00Z"
   }
 ]
